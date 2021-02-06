@@ -1,5 +1,5 @@
 # CloutierDHProject
-<h1>The Cold War and Word Embeddings: Exploring Gender in the FRUS Series, 1945-1960</h1>
+<h1>The Cold War and Word Embeddings: Exploring Gender in the FRUS Series, 1945-1968</h1>
 
 <h2>Description</h2>
 <p>This repository contains the elements of a case study that demonstrates some capabilities of word vector models. This case study is tracked through a series of Jupyter Notebooks that contain the following elements: <br>
